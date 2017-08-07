@@ -60,7 +60,7 @@ namespace tm_kinematics {
 #include <math.h>
 #include <vector>
 
-#include <eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 
 #define D1 0.1451
 #define D2 0
